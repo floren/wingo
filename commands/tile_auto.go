@@ -3,7 +3,7 @@ package commands
 import (
 	"github.com/BurntSushi/gribble"
 
-	"github.com/BurntSushi/wingo/workspace"
+	"github.com/floren/wingo/workspace"
 )
 
 type AutoTile struct {

@@ -16,7 +16,7 @@ import (
 
 	"github.com/BurntSushi/xdg"
 
-	"github.com/BurntSushi/wingo/commands"
+	"github.com/floren/wingo/commands"
 )
 
 var (

@@ -17,9 +17,9 @@ import (
 	"github.com/BurntSushi/xgbutil/xrect"
 	"github.com/BurntSushi/xgbutil/xwindow"
 
-	"github.com/BurntSushi/wingo/misc"
-	"github.com/BurntSushi/wingo/render"
-	"github.com/BurntSushi/wingo/text"
+	"github.com/floren/wingo/misc"
+	"github.com/floren/wingo/render"
+	"github.com/floren/wingo/text"
 )
 
 type Message struct {

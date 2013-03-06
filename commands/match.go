@@ -5,9 +5,9 @@ import (
 
 	"github.com/BurntSushi/gribble"
 
-	"github.com/BurntSushi/wingo/logger"
-	// "github.com/BurntSushi/wingo/wm" 
-	"github.com/BurntSushi/wingo/xclient"
+	"github.com/floren/wingo/logger"
+	// "github.com/floren/wingo/wm" 
+	"github.com/floren/wingo/xclient"
 )
 
 type MatchClientClass struct {

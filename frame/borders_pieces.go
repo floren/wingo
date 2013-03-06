@@ -6,9 +6,9 @@ import (
 	"github.com/BurntSushi/xgbutil/xgraphics"
 	"github.com/BurntSushi/xgbutil/xwindow"
 
-	"github.com/BurntSushi/wingo/cursors"
-	"github.com/BurntSushi/wingo/logger"
-	"github.com/BurntSushi/wingo/render"
+	"github.com/floren/wingo/cursors"
+	"github.com/floren/wingo/logger"
+	"github.com/floren/wingo/render"
 )
 
 func (f *Borders) newPieceWindow(ident string,

@@ -11,12 +11,12 @@ import (
 	"github.com/BurntSushi/xgbutil/xrect"
 	"github.com/BurntSushi/xgbutil/xwindow"
 
-	"github.com/BurntSushi/wingo/frame"
-	"github.com/BurntSushi/wingo/hook"
-	"github.com/BurntSushi/wingo/logger"
-	"github.com/BurntSushi/wingo/stack"
-	"github.com/BurntSushi/wingo/wm"
-	"github.com/BurntSushi/wingo/workspace"
+	"github.com/floren/wingo/frame"
+	"github.com/floren/wingo/hook"
+	"github.com/floren/wingo/logger"
+	"github.com/floren/wingo/stack"
+	"github.com/floren/wingo/wm"
+	"github.com/floren/wingo/workspace"
 )
 
 const (

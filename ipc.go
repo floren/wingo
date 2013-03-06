@@ -10,8 +10,8 @@ import (
 
 	"github.com/BurntSushi/xgbutil"
 
-	"github.com/BurntSushi/wingo/commands"
-	"github.com/BurntSushi/wingo/logger"
+	"github.com/floren/wingo/commands"
+	"github.com/floren/wingo/logger"
 )
 
 // ipc starts the command server via a unix domain socket. It accepts
